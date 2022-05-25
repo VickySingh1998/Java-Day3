@@ -5,8 +5,8 @@ public class EmployeeWageUC6 {
 	public static final int Part_Time = 1; 
 	public static final int Full_Time = 2;
 	public static final int Emp_Rate_Per_Hour = 20;
-	public static final int Num_Of_Working_Days = 2;
-	public static final int Max_Hrs_In_Month = 10;
+	public static final int Num_Of_Working_Days = 20;
+	public static final int Max_Hrs_In_Month = 100;
 	
 	public static void main(String[] args) {
 		int empHrs = 0, TotalEmpHrs = 8, TotalWorkingDays = 0;
