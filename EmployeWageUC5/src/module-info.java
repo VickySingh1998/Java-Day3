@@ -1,0 +1,2 @@
+module EmployeWageUC5 {
+}
