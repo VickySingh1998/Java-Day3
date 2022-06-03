@@ -8,7 +8,7 @@ public class EmployeWageUC5 {
 	public static final int Num_Of_Working_Days = 2;
 	
 	public static void main(String[] args) {
-		int empHrs = 0, empWage = 8, TotalEmpWage = 0;
+		int empHrs = 0, empWage = 0, TotalEmpWage = 0;
 		
 		for (int day=0; day < Num_Of_Working_Days; day++) {
 		int empCheck = (int) Math.floor(Math.random()* 10) % 3;
